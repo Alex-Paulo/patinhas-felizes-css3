@@ -44,7 +44,7 @@ Este site foi criado como parte de uma atividade prática de **Fundamentos de HT
 ## 👩‍💻 Desenvolvido por
 
 ** Alex Paulo **  
-💻 Projeto acadêmico — Desenvolvimento Front-End (Experiência Prática I)
+💻 Projeto acadêmico — Desenvolvimento Front-End (Experiência Prática II)
 
 ---
 
@@ -54,7 +54,8 @@ Este projeto é de uso acadêmico e não possui fins comerciais.
 
 ---
 ## Conheça a ONG
-Clique [ AQUI ]( https://alex-paulo.github.io/patinhas-felizes-html5/ )
+Clique [ AQUI ]( https://alex-paulo.github.io/patinhas-felizes-html5/ ) para ver a primeira versão
+Clique [ AQUI ] para a segunda versão
 
 
 
